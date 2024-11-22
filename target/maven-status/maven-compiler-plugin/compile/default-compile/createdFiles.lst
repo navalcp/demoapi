@@ -1,2 +1,6 @@
+pojo\Address.class
+pojo\JsonToJava.class
 pojo\Location.class
+pojo\PhoneNumber.class
 pojo\AddPlace.class
+pojo\Payload.class

@@ -7,7 +7,7 @@ import io.cucumber.java.Before;
 public class Hooks {
 
 	
-	  @Before("@DeletePlace") 
+	  @Before("@Check")
 	  public void beforeScenario() throws IOException {
 	  //execute this code only when place id is null //write a code that will give
 	 // you place id

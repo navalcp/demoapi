@@ -1,6 +1,8 @@
+cucumber\options\FailedRunner.class
 cucumber\options\TestRunner.class
 stepdefinations\Hooks.class
 report\Report.class
+stepdefinations\ComplexJsobParse.class
 resources\APIResources.class
 resources\TestDataBuild.class
 resources\Utils.class
